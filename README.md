@@ -3,6 +3,8 @@ Working with Head Start Program Information Report data
 
 Discovering and visualizing trends in Head Start PIR data.
 
+Clone or Download to view interactive plots.
+
 https://hses.ohs.acf.hhs.gov/pir/
 
 Data available at the URL above. You must request an account in order to access the database. 
