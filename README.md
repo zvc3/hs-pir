@@ -1,7 +1,5 @@
 # hs-pir
-Working with Head Start Program Information Report data
-
-Discovering and visualizing trends in Head Start PIR data.
+Discovering and visualizing Head Start PIR data
 
 Clone or Download to view interactive plots.
 
